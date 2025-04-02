@@ -5,4 +5,4 @@ datasets links
 
 
  #this model will helpfull to turn the real images to the landscape paintings using Generative Adversarial Networks models.
- we have used cyclegan model.
+ i have used cyclegan model.
